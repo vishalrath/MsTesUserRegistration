@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.exe
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.deps.json
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.runtimeconfig.json
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.dll
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\ref\MailUserRegistration.dll
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\bin\Debug\net5.0\MailUserRegistration.pdb
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.dll
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\ref\MailUserRegistration.dll
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.pdb
+C:\Users\Vishal\source\repos\UserRegistration PracticeProblem\Uc3UserRegistration\Uc3UserRegistration\obj\Debug\net5.0\MailUserRegistration.genruntimeconfig.cache
