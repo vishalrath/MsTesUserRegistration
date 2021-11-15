@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.exe
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.deps.json
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.runtimeconfig.json
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.dll
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\ref\UC1UserRegistration.dll
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\bin\Debug\net5.0\UC1UserRegistration.pdb
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.dll
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\ref\UC1UserRegistration.dll
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.pdb
+C:\Users\Vishal\source\repos\UC1UserRegistration\UC1UserRegistration\obj\Debug\net5.0\UC1UserRegistration.genruntimeconfig.cache
