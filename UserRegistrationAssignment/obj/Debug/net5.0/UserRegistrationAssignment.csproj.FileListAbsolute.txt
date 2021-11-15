@@ -1,0 +1,16 @@
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.exe
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.deps.json
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.runtimeconfig.json
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.runtimeconfig.dev.json
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.dll
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\ref\UserRegistrationAssignment.dll
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\bin\Debug\net5.0\UserRegistrationAssignment.pdb
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.dll
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\ref\UserRegistrationAssignment.dll
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.pdb
+C:\Users\Vishal\source\repos\UserRegistrationAssignment\UserRegistrationAssignment\obj\Debug\net5.0\UserRegistrationAssignment.genruntimeconfig.cache

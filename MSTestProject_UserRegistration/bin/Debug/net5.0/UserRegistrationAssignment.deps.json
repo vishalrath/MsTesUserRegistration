@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UserRegistrationAssignment/1.0.0": {
+        "runtime": {
+          "UserRegistrationAssignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserRegistrationAssignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
